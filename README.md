@@ -10,4 +10,5 @@ https://www.kaggle.com/datasets/manasgarg/ipl
 # Impact of Toss on Match
 ![image](https://github.com/user-attachments/assets/0eee9175-cec4-4639-9a71-8841806e0f03)
 # Distribution by wins_by_runs and wins_by_wickets
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/5e189482-7537-49c9-a9ac-47237314304b)
+
